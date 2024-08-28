@@ -1,4 +1,3 @@
-use std::collections::HashSet;
 impl Solution {
     pub fn is_number(s: String) -> bool {
         let b = ["inf","-inf","+inf","nan","infinity","-infinity","+infinity"];
